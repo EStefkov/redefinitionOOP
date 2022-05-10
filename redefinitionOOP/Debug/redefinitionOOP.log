@@ -1,0 +1,7 @@
+﻿  CComplex.cpp
+C:\Users\djd3e\source\repos\redefinitionOOP\redefinitionOOP\CComplex.cpp(28,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\djd3e\source\repos\redefinitionOOP\redefinitionOOP\CComplex.cpp(39,33): error C2601: 'CComplex::operator ++': local function definitions are illegal
+C:\Users\djd3e\source\repos\redefinitionOOP\redefinitionOOP\CComplex.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\djd3e\source\repos\redefinitionOOP\redefinitionOOP\CComplex.cpp(42,33): error C2601: 'CComplex::operator --': local function definitions are illegal
+C:\Users\djd3e\source\repos\redefinitionOOP\redefinitionOOP\CComplex.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\djd3e\source\repos\redefinitionOOP\redefinitionOOP\CComplex.cpp(35): fatal error C1075: '{': no matching token found
